@@ -1,0 +1,17 @@
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Service.deps.json
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Service.dll
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Service.pdb
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Data.dll
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Infrastructure.dll
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Data.pdb
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/bin/Debug/net8.0/WDC.Orders.Infrastructure.pdb
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orde.D3C82EED.Up2Date
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.dll
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/refint/WDC.Orders.Service.dll
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/WDC.Orders.Service.pdb
+/Users/ali/Desktop/WDC/Order/WDC.Order.Service/obj/Debug/net8.0/ref/WDC.Orders.Service.dll

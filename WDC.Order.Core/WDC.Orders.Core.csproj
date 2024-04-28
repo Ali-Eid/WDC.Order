@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Features\" />
+    <None Remove="Mapping\" />
+    <None Remove="Behaviors\" />
+    <None Remove="Bases\" />
+    <None Remove="Bases\ResponseBase\" />
+    <None Remove="Middlewares\" />
+    <None Remove="Features\OrdersFeatures\" />
+    <None Remove="Features\OrdersFeatures\Query\" />
+    <None Remove="Features\OrdersFeatures\Command\" />
+    <None Remove="Features\OrdersFeatures\Query\Models\" />
+    <None Remove="Features\OrdersFeatures\Query\Handlers\" />
+    <None Remove="Features\OrdersFeatures\Query\Responses\" />
+    <None Remove="Features\OrdersFeatures\Command\Models\" />
+    <None Remove="Features\OrdersFeatures\Command\Handlers\" />
+    <None Remove="Features\OrdersFeatures\Command\Validators\" />
+    <None Remove="Mapping\OrderMapping\" />
+    <None Remove="Mapping\OrderMapping\CommandMapping\" />
+    <None Remove="Mapping\OrderMapping\QueryMapping\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Behaviors\" />
+    <Folder Include="Bases\" />
+    <Folder Include="Bases\ResponseBase\" />
+    <Folder Include="Middlewares\" />
+    <Folder Include="Features\OrdersFeatures\" />
+    <Folder Include="Features\OrdersFeatures\Query\" />
+    <Folder Include="Features\OrdersFeatures\Command\" />
+    <Folder Include="Features\OrdersFeatures\Query\Models\" />
+    <Folder Include="Features\OrdersFeatures\Query\Handlers\" />
+    <Folder Include="Features\OrdersFeatures\Query\Responses\" />
+    <Folder Include="Features\OrdersFeatures\Command\Models\" />
+    <Folder Include="Features\OrdersFeatures\Command\Handlers\" />
+    <Folder Include="Features\OrdersFeatures\Command\Validators\" />
+    <Folder Include="Mapping\OrderMapping\" />
+    <Folder Include="Mapping\OrderMapping\CommandMapping\" />
+    <Folder Include="Mapping\OrderMapping\QueryMapping\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WDC.Order.Service\WDC.Orders.Service.csproj" />
+    <ProjectReference Include="..\WDC.Order.Infrastructure\WDC.Orders.Infrastructure.csproj" />
+    <ProjectReference Include="..\WDC.Order.Data\WDC.Orders.Data.csproj" />
+  </ItemGroup>
+</Project>

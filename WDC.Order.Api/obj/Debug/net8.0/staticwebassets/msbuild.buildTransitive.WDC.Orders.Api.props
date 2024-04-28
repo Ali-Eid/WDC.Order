@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/WDC.Orders.Api.props" />
+</Project>

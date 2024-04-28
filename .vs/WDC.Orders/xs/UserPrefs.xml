@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{236D01C9-EF52-4E62-8519-9C52CBC0712B}|https">
+  <MonoDevelop.Ide.ItemProperties.WDC.Orders.Core FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WDC.Orders.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.WDC.Orders.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WDC.Orders.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WDC.Order.Infrastructure/Context/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="WDC.Order.Data/Entities/BaseEntity.cs" Line="6" Column="20" />
+      <File FileName="WDC.Order.Data/Entities/Order.cs" Line="9" Column="1" />
+      <File FileName="WDC.Order.Infrastructure/Context/ApplicationDbContext.cs" Line="13" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WDC.Orders.Data FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
